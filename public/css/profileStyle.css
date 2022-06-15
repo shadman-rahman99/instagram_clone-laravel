@@ -1,0 +1,28 @@
+
+body{
+  background-color:white ;
+}
+.profileImage{
+  height: 200px;
+}
+.comment_scrollbar_post_show{
+background-color: #ffffff;
+width: 500px;
+height: 320px;
+overflow-y:auto;
+overflow-x: hidden;
+}
+.post-show-Fol-Button{
+font-size: 30px;
+
+}
+.comment_scrollbar_comment_create{
+background-color: #ffffff;
+width: 830px;
+height: 520px;
+overflow-y:auto;
+overflow-x: hidden;
+}
+.post-show-Fol-Button{
+font-size: 30px;
+}
